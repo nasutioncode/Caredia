@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".coba"></activity>
+        <activity android:name=".Ds"></activity>
+        <activity android:name=".coba" />
         <activity android:name=".HomesActivity" />
         <activity android:name=".HomeActivity" />
         <activity android:name=".RegisterActivity" />
