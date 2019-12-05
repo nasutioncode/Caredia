@@ -9,10 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.nasution.cardiacare.HomesActivity"></activity>
-        <activity android:name="com.nasution.cardiacare.HomeActivity" />
-        <activity android:name="com.nasution.cardiacare.RegisterActivity" />
-        <activity android:name="com.nasution.cardiacare.MainActivity">
+        <activity android:name=".coba"></activity>
+        <activity android:name=".HomesActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
